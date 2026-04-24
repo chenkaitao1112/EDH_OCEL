@@ -1,6 +1,6 @@
 # [Paper Title TBD] Official Implementation
 
-> **Note:** > This repository contains the official code implementation for the paper **"Event-Driven Heterogeneous Hypergraph Learning for Next-Activity Prediction on Object-Centric Event Logs"** *(Title TBD / Under Review)*.
+> **Note:** > This repository contains the official code implementation for the paper **"Event-Driven Heterogeneous Hypergraph Learning for Next-Activity Prediction on Object-Centric Event Logs"**.
 
 This project proposes an event-driven Heterogeneous Hypergraph Learning approach specifically designed for Object-Centric Event Logs (OCEL) to tackle the Next-Activity Prediction task in process mining.
 
@@ -33,6 +33,10 @@ The core code and datasets are organized as follows:
     └── ⚙️ Configuration & Utilities
         ├── config.py           # Configuration file (hyperparameters, paths, etc.)
         └── utils.py            # General utility functions
+
+
+```
+
 
 Quick Start & Usage Guide
 Follow these steps to set up the environment, prepare your data, and run the model.
