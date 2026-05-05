@@ -1,6 +1,6 @@
  #  Official Implementation
 
- The main text code will be uploaded later
+ # The main text code will be uploaded later
 
 > **Note:**
 > This repository contains the official code implementation for the paper **"Event-Driven Heterogeneous Hypergraph Learning for Next-Activity Prediction on Object-Centric Event Logs"** .
